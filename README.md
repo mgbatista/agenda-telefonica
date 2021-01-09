@@ -69,13 +69,10 @@ $ acesse https://localhost:<porta>/api/Contatos
 
 	### Método Put
 	* Deverá haver pelo menos um item no banco de dados antes de você fazer uma chamada PUT, e no Body você deverá informar todos os campos, mesmo aqueles que não sofrerão alteração, caso contrario, o valor dos campos passará a ser null.
->Se a requisição for bem sucedida, deve retornar **204 No Content**.
-	
-
-### Método Delete
-* Defina o URI do objeto a ser excluído 
- `https://localhost:<port>/api/Contatos/<Id>`
->Se a requisição for bem sucedida, deve retornar **204 No Content**.
+		>Se a requisição for bem sucedida, deve retornar **204 No Content**.
+	### Método Delete
+	* Defina o URI do objeto a ser excluído`	https://localhost:<port>/api/Contatos/<Id>`
+		>Se a requisição for bem sucedida, deve retornar **204 No Content**.
 
 ### 🛠 Linguagem
 Foi utilizada para criação do projeto a linguagem C#
