@@ -75,6 +75,7 @@ $ acesse https://localhost:<porta>/api/Contatos
 ### Método Delete
 * Defina o URI do objeto a ser excluído 
  `https://localhost:<port>/api/Contatos/<Id>`
+>Se a requisição for bem sucedida, deve retornar **204 No Content**.
 
 ### 🛠 Linguagem
 Foi utilizada para criação do projeto a linguagem C#
