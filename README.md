@@ -37,11 +37,7 @@ $ acesse https://localhost:<porta>/api/Contatos
 
 ```
 #### 🧭 Testando a API através do Postman
-* Instalar o [Postman](https://www.postman.com/downloads/)
 * Inicie a aplicação (selecione o projeto e pressione Ctrl + F5)
-*  Inicie o Postman.
-* Desabilite a **Verificação do certificado SSL**:
-	Em **Arquivo** > **Configurações** (guia **Geral**), desabilite **Verificação de certificado SSL**.
 	
 	### Método Post
 	* Defina o URI como  `https://localhost:<port>/api/Contatos`.
