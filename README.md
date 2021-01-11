@@ -77,9 +77,6 @@ Foi utilizada para criação do projeto a linguagem C#
 <a href="https://www.linkedin.com/in/maiarabueno/">
  <img style= "border-radius: 50% ;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFu5rygQlkRpw/profile-displayphoto-shrink_200_200/0/1575936867043?e=1615420800&v=beta&t=_ujeVwcMiFhS9ue_whn1egOHj7zG-OXE1JLdmIZU3ic"/>
  <br />
- <sub><b>Maiara Batista</b></sub></a> <a href="https://www.linkedin.com/in/maiarabueno/" 
+ <sub><b>Maiara Batista</b></sub></a> <a href="https://www.linkedin.com/in/maiarabueno/"></a>
  <br />
  
-### 📝 Licença
-
-Este projeto esta sob a licença [MIT](./LICENSE).
